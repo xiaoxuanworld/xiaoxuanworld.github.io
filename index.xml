@@ -5,18 +5,7 @@
     <link>https://xiaoxuanworld.github.io/</link>
     <description>Recent content in Introduction on 逍旋的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaoxuanworld.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>With ToC</title>
-      <link>https://xiaoxuanworld.github.io/docs/example/table-of-contents/with-toc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoxuanworld.github.io/docs/example/table-of-contents/with-toc/</guid>
-      <description>Caput vino delphine in tamen vias #  Cognita laeva illo fracta #  Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.
- Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit  Natus quaerere #  Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://xiaoxuanworld.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>序章</title>
       <link>https://xiaoxuanworld.github.io/docs/mingxihexiqilianyi/xuzhang/</link>
@@ -32,16 +21,6 @@
 “你懂什么！那种一出生就失去父母的感觉你懂吗？！你根本就没有资格来管我，我一定会去的！”女孩愤怒地推开男孩，迅速向门口跑去。
 “我……”男孩还没来得及开口就听见了重重的关门声。“不，我懂，因为我也和你一样……但如果你硬要去的话，我也会跟着你的……”
 此刻，女孩并不知道男孩的心意，而命运似乎早已定下了几位主角的宿命……</description>
-    </item>
-    
-    <item>
-      <title>Without ToC</title>
-      <link>https://xiaoxuanworld.github.io/docs/example/table-of-contents/without-toc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoxuanworld.github.io/docs/example/table-of-contents/without-toc/</guid>
-      <description>At me ipso nepotibus nunc celebratior genus #  Tanto oblite #  Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.
-Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
     </item>
     
     <item>
@@ -490,91 +469,70 @@ TO BE CONTINUED……
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xiaoxuanworld.github.io/docs/mingxihexiqilianyi/huiyipian/</guid>
-      <description>test你和</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://xiaoxuanworld.github.io/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoxuanworld.github.io/posts/creating-a-new-theme/</guid>
-      <description>Introduction #  This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://xiaoxuanworld.github.io/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoxuanworld.github.io/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static #  Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://xiaoxuanworld.github.io/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoxuanworld.github.io/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://xiaoxuanworld.github.io/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoxuanworld.github.io/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo #  Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs #  Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://xiaoxuanworld.github.io/docs/example/collapsed/3rd-level/4th-level/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoxuanworld.github.io/docs/example/collapsed/3rd-level/4th-level/</guid>
-      <description>4th Level of Menu #  Caesorum illa tu sentit micat vestes papyriferi #  Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.
-Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://xiaoxuanworld.github.io/docs/example/hidden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoxuanworld.github.io/docs/example/hidden/</guid>
-      <description>This page is hidden in menu #  Quondam non pater est dignior ille Eurotas #  Latent te facies #  Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
- Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor  Cum honorum Latona #  O fallor in sustinui iussorum equidem.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://xiaoxuanworld.github.io/docs/shortcodes/section/first-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoxuanworld.github.io/docs/shortcodes/section/first-page/</guid>
-      <description>First page #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://xiaoxuanworld.github.io/docs/shortcodes/section/second-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xiaoxuanworld.github.io/docs/shortcodes/section/second-page/</guid>
-      <description>Second Page #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>梦 #  我叫工藤新一，是个侦探……嘛，如果说过去的话，我应该是这么称呼自己，但是现在的话，江户川柯南，我更喜欢这么叫自己，另外……在别人看来是无所不知的侦探，而在她看来我却难以给自己一个精确的定位。
+喜欢她吗？也许吧，有些人的确是这么认为的。呵呵，对于我这个情商几乎为负的人来说这还真的是一个难题啊，哪怕……我破解了再多的谜案也说不清。毕竟，她也牵扯其中，是她，让我失去了原来的理性。
+我在哪？不知道，周围一片漆黑，难不成我又卷入了什么案子当中吗？嗨，看来我真的就是个灾星啊，也罢，四处走走吧，说不定能发现些什么。
+拿着博士送的手表灯，走在看不见目的地的路上，这究竟是哪啊？
+「柯南，记得早点回来吃饭。」一个声音在脑中闪过，嘛，是兰啊，果然，过了五年了吧，有时还是会想起她。是负罪感吗？还是说，我对她所记得的就只限于这些，难不成真的把她当成姐姐了，喂喂……
+「柯南，过来踢足球吧！」又有一个声音在脑中晃过，啊，这不是元太、光彦还有步美的声音吗？原来如此，做小学生有时也挺好，就可以像他们这么无忧无虑地去玩，不用去管其他那些复杂的感情。
+我突然停下，感觉好像少了什么，是什么呢？我做出习惯性的思考动作，仔细地想着刚刚发生的一切。可恶，想不出来啊……对了，这种时候的话……
+「灰原？」我叫着一个熟悉的名字，不太清楚它的意义，但是我的嘴却就这么脱口而出了。朝周围望望，四周无人，只我一人站在空旷的黑寂之中。
+对了，「灰原」不就是那个家伙的姓吗，呵呵，是那个不可爱的哈欠女的……回过头来想，她在哪呢？不在啊，原来她不在啊……
+原来如此，不对劲的地方就是这吧，我苦笑道，有时太习惯于她在身边的感觉真的是种灾难，等到她真的不在了我才明白过来那种隐性的灾难之严重。是嘛，以前总是认为一切都是那么理所当然……
+我的爱恋理所当然地系在了电话线的那一头，却没有发现是一种隐性的感情驱使着我一直去拨通那个电话。我急于求成，而忘记了是谁给我这种安心的感觉。
+可恶，为什么你不在，你回来啊！为什么，为什么……我紧握着我的双手，让那副无度数的眼镜被我浑身的颤栗所抖下。
+你不想见我了吗，灰原？握紧按着自己的胸口问道，希望能找回过去记忆碎片中的一小块，但是越按只会让那份痛苦更加的深刻。
+「很痛吗？」一个声音从耳边传来，这是……兰？「新一，我想的话这种感觉是很痛的吧，因为……我也曾体验过……」
+什么感觉？我低声问道。
+「痛过之后，才知道珍惜的感觉……」兰用她的轻声在我的耳边说道。
+是啊，被她的话微微地点醒，仔细一想，事实就是如此……我不顾任何代价地去挥霍她对我的关心和喜欢，换来的是我那片刻的快乐，而她取而代之的是哪有苦无法诉诸于怀的无奈……或者说，她习惯与隐藏，将她自己的伤痛偷偷咽下肚子，而我却从不曾去细数那苦水的分量。更确切的是，我太傻，没有去珍惜她，哪怕是一点都没有……
+「还有呢？」兰继续向我问道。
+焦急的我却不想冷静地去思考这些问题，只是想着怎么把她留在我身边。没错，我只知道寻求结果，却不曾想着去改变自己的什么来想出办法。
+「你看这是什么？」兰举起一个小东西放在我的面前。这是……那个录音机，我记得，我在荒岛上的时候和灰原一起……我想说什么，但是又突然止住了，对啊，我怎么这么笨……明明就向她说过的啊……
+「看来你已经懂了吧，这不仅是个小小的录音机，里面……装的是你们的誓言，是你对她的承诺。」
+承诺，这两个字重得一下子把我压得喘不过气来。是啊，我不知道向她做过多少次的誓言，而真正做到的又有几次呢……
+我会保护你的。我习惯性地讲着这句话，而或许就是太习惯了，我却忘记了这句话对她的分量……对她来说，这无疑于把她从黑暗中引出的黎明，而我呢？或许有时只把它当做是闲余饭后的口头禅罢了。
+她用她对那句话的分量显示了我的愚蠢。
+我用我对那句话的分量反衬了她的可怜。
+她对我付出了全部的信任而我却一再将她置于危险之中，我哪有什么资格再敢谈去保护她？
+回过头来，原来兰早已不在了……原来如此，像我这样的人的确也是不配让兰留在我的身边，但是……灰原，你到底在哪，我怎么才能找到你……
+闭上眼睛，我苦笑着侦破无数奇案的福尔摩斯却永远不知道艾琳的心到底是怎么样的。
+「工藤……」微微的声音在我的耳边回响着。这个声音是……灰原？我迅速地睁开眼睛才发现她正背对着我。
+笨蛋，你去哪了！我大声地向她吼道，而眼眸中那茶色的秀发却显得如此的陌生。「我要走了。」我的眼前闪过几个响亮的大字。
+等等！就在她刚迈出第一个步伐的时候我从后面抓住了她。可能是被我的动作吓到了，我感觉到她的身体在颤抖。你到底是怎么了？我走到她的正面，而那触目惊心的皮肤完全震慑了我的眼球，不只因为是干燥还是病状那皮肤早就已经是粗糙不堪。这是……
+「你别管！」她正要走时，我一手抓住她的左手，而那凹凸不平的触感顿时让我怀疑着那是否是一双正常的手。抬起看看，不仅是左手，两只手上满布着粗糙的皮肤，我甚至能清晰地看到那皮肤上凹陷进去的痕迹。
+原来如此，这就是我这个笨蛋所没发现的吧。「你看够了没有？我知道很丑是吧？」她低着头冷冷地对我说道。
+被她弄得有些哑口无言，一下子不知道该说些什么，而那稍微地一分神却让她轻易地挣脱开了我的双手。
+情急之间我不知所措，于是又习惯性地说出了那句话，「我会保护你的，灰原你等等！」而她的停顿却并不是我所想要听到的。
+「保护我？保护我干什么？让我受伤害吗？如果说这就是你的方法的话，我不要。」刚准备伸手，才发现她已经离我远去了……看着她离去的背影，我却完全不能动弹自己的身体，只能眼睁睁地就这么看着，连一句「さようなら」都没来得及说……
+为什么……为什么会这样……灰原，不要，不要！
+「灰原！」我猛地从梦中惊醒，一摸才发现床单都已经湿了。真是的，我居然会做这种梦……摸摸自己的脸，嘛，我已经分不清是泪还是汗了……
+口很干，我用赤脚去触摸那在冬天里冰冷的地板。幸运的是，冰箱里留了最后一罐啤酒，不管了，喝了再说……
+呵呵，从前的我可是滴酒不沾的啊，而现在呢，为了那个不可爱的女人我还能怎么样……借着酒劲，我看着窗外的月亮，那手中的力气几乎将要把那易拉罐给捏变形了。
+我会把你找回的，灰原，希望你能再给我一次机会，至少让我找到你……不论要我做什么，不论你变成什么样子……因为这是我对你一生的承诺，因为我真的……很喜欢你……
+雪夜的初会 #  我叫三云七海，出生在一个富贵人家，不过与别人不同的是我没有母亲，甚至于也根本没有见过她的样子。奇怪的是，我似乎也并不怎么憧憬着去拥有一个母亲，而原因大概是因为已经习惯了这种生活，习惯了得不到母爱的感觉。
+我所谓的富贵家庭不是一般的有钱而已，爸爸三云慎吾坐拥整个日本的绝大多数股票份额，公司甚至于遍布整个全世界。而我整个的成长经历也几乎没有遇到过任何的困难，或者就算有也早就被宠爱我的爸爸给一扫而空了。
+现在的我13岁了，可是长这么大依旧是没有怎么接触过外界的人，而用爸爸的话说就是「你是富贵人家的千金，怎么能和那种外面的野孩子一起玩呢？」于是从小到大我都被爸爸严格地监视着，或者更准确地说……是被爸爸雇来的保镖监视着，他们护送我上下学，而除了在学校的时间，我几乎都被锁在家里。
+在学校里，我的成绩十分的优异，常年在学校里拿年级第一，而这也得益于爸爸在家中为我所请的老师来为我进行详细的功课辅导。另外，和学校里的那些所谓的「美丽的女孩」相比，我自认我的相貌更是比她们高出一筹。别看我年纪尚青，但是身材的发育乃至于整个人线条的比例也是同龄人所难以比拟的。而这些……或许就是我那个从未见过的妈妈所遗传而来的吧。
+可能就是因为我出众的学习成绩和完美的身材，从小学开始到现在的初中，我的追求者可以说是数不胜数，鞋柜几乎天天也都是被各式各样的情书所充满的，不过我连看都不看就会让我的保镖将它们处理掉。
+说实话，平常的我无论是在哪里都不喜欢化妆，我很讨厌那些将自己浓妆艳抹的女孩，我认为那完全就是一种对自己的侮辱，所以我的装扮也很朴实。平常在学校里只是着统一发的校服而已，在家里穿的也不过是很普通的连衣裙，但价格自然也是不菲了。可这都不是重点，毕竟在家里除了我的家教和那些整天穿一身黑的保镖之外，没有人会注意到我所穿的衣服。哪怕是我的爸爸，因为他总是因工作而长期不在家。
+我留的是差不多到胸部的长发，颜色则是黑色。我喜欢那种颜色，因为我所眷恋的夜晚就是这种让我着迷的颜色。白天，我会摆出一副冷冰冰的态度，可是夜晚……我会将自己全身心的投入到那个只属于我的房间，漆黑但是很温馨。
+我的房间装饰得很华丽，配备有电脑，电视，空调，音箱等等一系列的设备，但我最在乎的只有两个，一个是我的公主床，还有一个则是那台放在窗边的钢琴。
+我的床上方有一个洋娃娃，那是爸爸在我十岁的生日之时买给我的，可我喜欢这张床的原因并不是因为它，相反地，平常只是那么让它呆坐在那里，快四年了，我基本上也没怎么去碰过它。
+床很大，我一个人能在上面自由自在地活动，在夜晚没有人看到的时候我也能躲在被子里暗自的哭泣……而原因很简单，因为我那长期以来都没有变过的同一个噩梦。一个雨夜的晚上，我梦到还是襁褓中的我被一个鲜血淋淋的女人抱着，交给了另外一名男子，而让我所恐惧的则是那名男子当时所发出的笑声。
+毛骨悚然，就好像能让一个人的心脏立刻停跳的笑。而我，在这十几年的成长当中几乎天天晚上要遭遇这种笑声的折磨。
+至于那个女人，我并不知道她是谁，只知道她留着棕色的短发，除此以外，就连她的长相我也不能想象。
+虽然是可怕的梦魇，但我似乎很享受每次在床上哭的感觉，因为只有在那个时候我才不用去伪装自己，能将自己完美的释放。不用去管爸爸对我的严格要求，不用去想拿不了第一名就要饿肚子的惩罚，更不用去管在学校里面那些像我示好男孩子们的恶心，也不用去想我到底是否有母亲，是否我真正活在这个世界上……
+有时的感觉就是如此，不知道我是谁，不知道从哪里来，不知道自己的父母是谁……没错，我经常会从家里女佣的口中悄悄听到她们的话，说什么我并不是爸爸亲生的孩子。而就在我去向父亲询问这件事时，他却一口否决掉了，并解雇了那些散布谣言的佣人们，从此，我的身世也在没有任何人敢提及了。
+至于我的钢琴，虽然是爸爸强行要我学的，但是我后来才发现音乐真的是有一种能沁人心脾的魔力，在那华美的钢琴声中，我似乎忘掉了这多年来的困苦，忘掉了曾经的泪水。有时候，哪怕是弹钢琴弹到指甲和肉都分开了，为了自己心中的那一份想听到的声音，我依旧会继续地弹下去……而我的水平也达到了获得全国钢琴比赛一等奖的水平，可是就算再耀眼的奖状最终也难以得到爸爸的赞赏。
+记得在我第一次将年级第一的奖状放在爸爸的面前时，他只是看了看，叹了口气，紧接着就说了句，「好了，我知道了，去学习吧。」
+他的表情和我在学校里所见的其他家长完全不同，那些父母哪怕是自己的孩子只是成绩有了小小的一点进步，他们也会抱起孩子一起欢笑，而我……换来的只有沉默罢了。
+我没有喜欢的人，或者说，也没有机会去喜欢一个人，也没有人告诉我该怎么喜欢一个人。坐在教室里，我经常会看着周边的女孩子悄悄地对喜欢的男孩子递着情书，看着她们低头羞涩的样子，那眉蹙间细微的变动，这就是喜欢吗？我不知道，而听爸爸说来那也只是小孩子幼稚的游戏罢了。
+是吗？只是游戏，既然如此也没什么知道的必要了，反正我所认识的男性除了自己的父亲，就是那些黑衣的保镖，甚至于和我同班的男学生我也从来没和他们说上一句话。
+不过，13岁的生日那天，我总算是和自己人生中第一个同龄的男孩说上话了。
+那是在我的生日宴会上，爸爸找来了很多的著名人士来为我庆生，其中不乏现在各式各样的政界人物，甚至是科学家。我看着他们对爸爸笑脸盈盈的样子，酒杯在他们之间来回地碰撞，却完全找不到生日的气氛，有的，只是听他们在父亲面前的谄媚与利益关系。
+记得那天下着雪，我当时身着一身粉红色的晚礼服，脚下穿的是白色的高跟皮鞋，一个人从会宾堂里跑了出来，独自走在家里的小路上，本想到院子里的小亭子里看看雪，但却没有想到在那里早就有个男孩子坐在亭子的长凳上，望着一边的湖水发呆。
+他很奇怪，看样子应该是和我差不多大小的年龄，但是却拿着一瓶啤酒对自己的嘴巴一口口地灌下去，并望着天空中的白雪，嘴里似乎还在念念有词。</description>
     </item>
     
   </channel>
